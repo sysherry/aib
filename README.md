@@ -5,7 +5,7 @@ AIB Core integration/staging tree
 
 https://www.aib.one
 
-What is AIB?
+What is AIB2?
 ----------------
 
 AIB is an experimental digital asset that enables instant payments to
