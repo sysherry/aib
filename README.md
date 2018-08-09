@@ -8,6 +8,7 @@ https://www.aib.one
 What is AIB2?
 ----------------
 
+
 AIB is an experimental digital asset that enables instant payments to
 anyone, anywhere in the world. AIB uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
